@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-scheduler:v1.18.8
+FROM haproxy:2.4.13
