@@ -1,1 +1,1 @@
-FROM haproxy:2.4.13
+FROM nixos/nix:2.3.12
