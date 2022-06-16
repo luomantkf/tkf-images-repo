@@ -1,1 +1,1 @@
-FROM nixos/nix:2.3.12
+FROM golang:1.16-buster
