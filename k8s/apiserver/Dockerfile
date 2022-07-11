@@ -1,1 +1,1 @@
-FROM nocalhost-docker.pkg.coding.net/nocalhost/dev-images/golang:1.16
+FROM nocalhost-docker.pkg.coding.net/nocalhost/public/nocalhost-envoy:v1
