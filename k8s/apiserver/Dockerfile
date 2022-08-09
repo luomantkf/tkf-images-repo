@@ -1,1 +1,1 @@
-FROM appscode/kubed:v0.13.2
+FROM registry:2.7.1
