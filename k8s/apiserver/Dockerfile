@@ -1,1 +1,1 @@
-FROM registry:2.7.1
+FROM gogs/gogs:0.12
