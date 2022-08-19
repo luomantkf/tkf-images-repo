@@ -1,1 +1,1 @@
-FROM gogs/gogs:0.12
+FROM minio/minio:RELEASE.2022-07-17T15-43-14Z
